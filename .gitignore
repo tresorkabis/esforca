@@ -1,0 +1,8 @@
+/.env
+*.pyc
+migrations
+creds.json
+.DS_Store
+mediafiles
+db.sqlite3
+/.cache
